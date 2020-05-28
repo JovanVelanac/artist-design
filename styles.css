@@ -1,0 +1,13 @@
+body {
+    width: 100%;
+    text-align: center;
+}
+
+.container {
+    background-image: url(/resources/wlof.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -300px;
+    padding-bottom: 1100px;
+}
+
